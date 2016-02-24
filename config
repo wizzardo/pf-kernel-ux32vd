@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86_64 4.4.0-pf3 Kernel Configuration
+# Linux/x86_64 4.4.0-pf5 Kernel Configuration
 #
 CONFIG_64BIT=y
 CONFIG_X86_64=y
@@ -4686,7 +4686,7 @@ CONFIG_QUOTACTL_COMPAT=y
 # CONFIG_AUTOFS4_FS is not set
 CONFIG_FUSE_FS=y
 # CONFIG_CUSE is not set
-CONFIG_OVERLAY_FS=m
+CONFIG_OVERLAY_FS=y
 
 #
 # Caches
